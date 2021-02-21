@@ -1,0 +1,12 @@
+car:
+ρυθμιση κινησης αναλογα τη καμερα
+
+pedestrian:
+2d-wifi
+
+bus:
+2d-bus
+
+buttons:
+icons
+
